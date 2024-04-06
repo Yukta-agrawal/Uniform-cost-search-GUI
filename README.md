@@ -33,9 +33,12 @@ based on their costs and updates the queue accordingly.
 
 Visualization: The search process is visualized step by step on the GUI.
 Each step highlights the current city being explored and the path being
+
 traversed. Different colors are used to represent different stages of the
 search process.
 
 Final Path Highlighting: Once the optimal path is found, it is highlighted
 in red on the map. Additionally, the optimal path and its cost are
 displayed as a result.
+
+![Alt text](https://github.com/Yukta-agrawal/Uniform-cost-search-GUI/blob/main/Screenshot%202024-04-06%20193618.png?raw=true)
